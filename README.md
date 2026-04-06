@@ -1,15 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=200&section=header&text=Alexis%20Arrue&fontSize=40&fontColor=ffffff" />
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=25&center=true&vCenter=true&width=700&lines=Hola!+Soy+Alexis+Arrue+👋;Fullstack+Trainee+💻;Python+%2B+JavaScript+🚀;Construyendo+proyectos+modernos+🔥" />
-</p>
-
----
-
 # 👋 Hola, soy Alexis Arrue
 
 🎓 Estudiante de Bootcamp Fullstack Trainee  
@@ -24,31 +12,21 @@ Actualmente me encuentro en formación como desarrollador Fullstack, desarrollan
 ---
 
 ## 🛠️ Tecnologías
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,postgres,mysql,git,github,bootstrap" />
-</p>
-
----
-
-## 📊 Estadísticas de GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AArrue&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AArrue&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🔥 Racha de contribuciones  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AArrue&theme=tokyonight&hide_border=true" />
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ---
 
 ## 📂 Proyectos
 
 ### 🔹 Alke Wallet
-📌 Página web básica para comprender fundamentos del desarrollo web  
+📌 Creación de una página web básica para comprender los fundamentos del desarrollo web.  
 
 🛠️ Tecnologías:  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -58,7 +36,7 @@ Actualmente me encuentro en formación como desarrollador Fullstack, desarrollan
 ---
 
 ### 🔹 Sistema de Gestión Estudiantil
-📌 Aplicación de consola para administración de información académica  
+📌 Aplicación de consola desarrollada para administrar información académica de estudiantes de manera eficiente y persistente.  
 
 🛠️ Tecnologías:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -66,7 +44,7 @@ Actualmente me encuentro en formación como desarrollador Fullstack, desarrollan
 ---
 
 ### 🔹 Alke Wallet DB
-📌 Diseño y gestión de base de datos de clientes  
+📌 Creación de base de datos de clientes utilizando herramientas de gestión para modelado y administración de datos.  
 
 🛠️ Tecnologías:  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
@@ -75,7 +53,7 @@ Actualmente me encuentro en formación como desarrollador Fullstack, desarrollan
 ---
 
 ### 🔹 Tienda de Mangas
-📌 Web con backend en Django y diseño responsivo  
+📌 Desarrollo de una página web básica integrando backend con Django y diseño responsivo.  
 
 🛠️ Tecnologías:  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -86,17 +64,17 @@ Actualmente me encuentro en formación como desarrollador Fullstack, desarrollan
 ---
 
 ### 🔹 Alke Wallet (CRUD App)
-📌 Aplicación web con Django para gestión de usuarios y transacciones financieras  
+📌 Aplicación web desarrollada con Django enfocada en la gestión de usuarios y transacciones financieras, implementando operaciones CRUD completas y persistencia de datos mediante base de datos. Diseñada para simular el funcionamiento básico de una billetera digital.  
 
 🛠️ Tecnologías:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-372923?logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
 
 ---
 
-## ⚙️ Funcionalidades
+### ⚙️ Funcionalidades
 ✅ CRUD completo de usuarios  
 ✅ Gestión de saldo individual  
 ✅ Registro de transacciones (depósito / retiro)  
@@ -107,26 +85,8 @@ Actualmente me encuentro en formación como desarrollador Fullstack, desarrollan
 
 ---
 
-## 🐍 Contribuciones animadas  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+## 📫 Contacto
+📧 Email: arrue.alexis@gmail.com 
+💼 LinkedIn: [https://www.linkedin.com/in/alexis-arrue/]
 
 ---
-
-## 📫 Contacto  
-- 📧 Email: tuemail@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/tuusuario  
-
----
-
-## ⚡ Extras  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AArrue&label=Visitas&color=blue&style=flat" />
-</p>
-
----
-
-<p align="center">
-  ⭐ ¡Gracias por visitar mi perfil! ⭐  
-</p>
